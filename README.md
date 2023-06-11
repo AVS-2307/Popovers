@@ -1,4 +1,4 @@
-[Validation](https://avs-2307.github.io/Popovers/)
+[Popover](https://avs-2307.github.io/Popovers/)
 
 ![CI](https://github.com/AVS-2307/Popovers/actions/workflows/web.yml/badge.svg)
 
