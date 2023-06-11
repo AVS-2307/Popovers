@@ -1,6 +1,6 @@
-[Validation](https://avs-2307.github.io/CreditCardValidation/)
+[Validation](https://avs-2307.github.io/Popovers/)
 
-![CI](https://github.com/AVS-2307/CreditCardValidation/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/AVS-2307/Popovers/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "Работа с HTML-формами"
 
